@@ -2,6 +2,9 @@
 
 Full-stack social media application with real-time messaging, stories, and analytics.
 
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/239dd3fb-8d90-4430-9b67-f6645b21cd73" />
+
+
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
@@ -235,8 +238,6 @@ Deploy build folder
 
 
 ## 👨‍💻 Author
-
-**Your Name**  
 Pankaj Mehra
 
 ---

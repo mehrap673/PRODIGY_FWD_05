@@ -138,7 +138,7 @@ Full-stack social media application with real-time messaging, stories, and analy
 ### Installation
 
 **1. Clone & Install**
-git clone https://github.com/yourusername/socialhub.git
+git clone https://github.com/mehrap673/PRODIGY_FWD_05.git
 cd socialhub
 
 Backend
